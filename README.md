@@ -151,10 +151,3 @@ MIT License – free to use for educational projects.
 Developed with ❤️ by Jashedul Islan Shaun
 
 🌐 [GitHub](https://github.com/shauncuier)
-
-
-
-
-
-
-
