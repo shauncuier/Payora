@@ -91,7 +91,7 @@ payora/
 
 ###  Clone the repo:
 ```bash
-git clone https://github.com/your-username/payora.git
+git clone https://github.com/shauncuier/Payora.git
 ```
 
 
