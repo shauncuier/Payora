@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "bill_type": "electricity",
+        "icon": "https://i.ibb.co/Z1t9hykg/bd0a0e182482.png",
+        "organization": "DESCO",
+        "amount": 1200,
+        "due_date": "2025-05-15T00:00:00.000Z"
+    },
+    {
+        "id": 2,
+        "bill_type": "electricity",
+        "icon": "https://i.ibb.co/8DC4jLTJ/9c273a0e5190.png",
+        "organization": "NESCO",
+        "amount": 1350,
+        "due_date": "2025-05-20T00:00:00.000Z"
+    },
+    {
+        "id": 3,
+        "bill_type": "electricity",
+        "icon": "https://i.ibb.co/4nPJqh3p/700dd54c2df0.png",
+        "organization": "WZPDCL",
+        "amount": 1450,
+        "due_date": "2025-05-18T00:00:00.000Z"
+    },
+    {
+        "id": 6,
+        "bill_type": "gas",
+        "icon": "https://i.ibb.co/C3z3SYyy/1f0c19d95741.png",
+        "organization": "Gaslink",
+        "amount": 850,
+        "due_date": "2025-05-10T00:00:00.000Z"
+    },
+    {
+        "id": 9,
+        "bill_type": "gas",
+        "icon": "https://i.ibb.co/Xksp79FF/3ee6abbfa37b.png",
+        "organization": "Titas Gas",
+        "amount": 1050,
+        "due_date": "2025-05-18T00:00:00.000Z"
+    },
+    
+    {
+        "id": 11,
+        "bill_type": "water",
+        "icon": "https://i.ibb.co/21kW60yc/df2aeeb08d37.png",
+        "organization": "CTG WASA",
+        "amount": 620,
+        "due_date": "2025-05-18T00:00:00.000Z"
+    },
+    {
+        "id": 14,
+        "bill_type": "water",
+        "icon": "https://i.ibb.co/b52279hj/4d80877dcfd6.jpg",
+        "organization": "Khulna WASA",
+        "amount": 750,
+        "due_date": "2025-05-28T00:00:00.000Z"
+    },
+    {
+        "id": 15,
+        "bill_type": "water",
+        "icon": "https://i.ibb.co/tPsfj1C1/abbfca3446f4.jpg",
+        "organization": "Sylhet WASA",
+        "amount": 680,
+        "due_date": "2025-05-30T00:00:00.000Z"
+    },
+    {
+        "id": 16,
+        "bill_type": "internet",
+        "icon": "https://i.ibb.co/yBbMStKL/a42aca14e087.png",
+        "organization": "Banglalion",
+        "amount": 1150,
+        "due_date": "2025-05-20T00:00:00.000Z"
+    },
+    {
+        "id": 21,
+        "bill_type": "credit card",
+        "icon": "https://i.ibb.co/pDGvJyc/5297393b9234.png",
+        "organization": "DBBL",
+        "amount": 4300,
+        "due_date": "2025-05-25T00:00:00.000Z"
+    },
+    {
+        "id": 22,
+        "bill_type": "credit card",
+        "icon": "https://i.ibb.co/cKn4N67W/af91810eae9e.jpg",
+        "organization": "BRAC Bank",
+        "amount": 3500,
+        "due_date": "2025-05-28T00:00:00.000Z"
+    },
+    {
+        "id": 25,
+        "bill_type": "credit card",
+        "icon": "https://i.ibb.co/p6GqFy4w/d2fb472e8139.png",
+        "organization": "Standard Chartered",
+        "amount": 4800,
+        "due_date": "2025-06-05T00:00:00.000Z"
+    },
+    {
+        "id": 26,
+        "bill_type": "tuition",
+        "icon": "https://i.ibb.co/60fGTcrF/53d35f67e269.png",
+        "organization": "Maple Leaf Int'l School",
+        "amount": 7800,
+        "due_date": "2025-05-30T00:00:00.000Z"
+    },
+    {
+        "id": 27,
+        "bill_type": "tuition",
+        "icon": "https://i.ibb.co/ymQTvkLw/58ac1deda590.png",
+        "organization": "Sunnydale School",
+        "amount": 7200,
+        "due_date": "2025-05-28T00:00:00.000Z"
+    }
+]
